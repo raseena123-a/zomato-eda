@@ -4,7 +4,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on Zomato rest
 🍽️ Zomato Restaurant EDA Project
 📌 Project Overview
 This project aims to perform Exploratory Data Analysis (EDA) on the Zomato restaurant dataset to understand factors influencing customer ratings, restaurant popularity, and service preferences.
-
+##Dataset use
 🎯 Purpose
 To explore Zomato’s restaurant data and uncover patterns in ratings, cost, cuisines, and locations, helping improve decision-making for customers and businesses.
 
